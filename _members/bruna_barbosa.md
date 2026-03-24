@@ -1,7 +1,7 @@
 ---
 name: Bruna Barbosa
 image: images/team/bruna_barbosa.jpeg
-description: MSc in Bioinformatics
+description: MSc Student
 role: msc # Opções aceitas: undergrad, msc, phd, postdoc, pi
 links:
   github: brubabarbosa
